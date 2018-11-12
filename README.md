@@ -11,7 +11,7 @@ The ultra sheet package streamlines VCAA questions that are often tedious to do.
 Our glorious leader Papa Sai has even been kind enough to lend us his MASTER cheatsheet, which covers a majority of topics a mathematically minded VCE student might face now, and in the future.
 
 ## How do I load the VCAA hacks into Mathematica?
-First download the above files by clicking the green button on the top left and downloading as a zip. Please note that myself and Sai will update this package periodically with improovements and expansions to show VCAA who has the high ground, so check back every now and then and see if the version number increases. Once the file is downloaded, unpack it (google how to unpack zip file if unsure) and store it somewhere you know the file directory of (e.g desktop). Launch mathematica, and enter: 
+First download the above files by clicking the green button on the top right and downloading as a zip. Please note that myself and Sai will update this package periodically with improovements and expansions to show VCAA who has the high ground, so check back every now and then and see if the version number increases. Once the file is downloaded, unpack it (google how to unpack zip file if unsure) and store it somewhere you know the file directory of (e.g desktop). Launch mathematica, and enter: 
     Get["directory of ultrasheetworking.wl"]
 Press shift+enter and boom, the package will stay loaded until that session of Mathematica is closed. At the start of an exam, for example, take a USB with ultrasheet on it, load it in using the same method as above and feel free to abuse Mathematica as much as you wish.  
 
