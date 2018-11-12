@@ -1,5 +1,5 @@
 # VCAATrollSheet
-A demonstration on how to abuse Mathematica the same amount VCAA was abused as a kid.
+A demonstration on how to abuse Mathematica almost as much as VCAA was abused as a kid.
 
 ## What is this?
 ###### A message from Sai
