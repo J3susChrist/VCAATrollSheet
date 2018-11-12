@@ -1,5 +1,5 @@
 # VCAATrollSheet
-A demonstration on how to fully abuse Mathematica for a computation based exam.
+A demonstration on how to abuse Mathematica just the same amount VCAA's Dad abused them as a kid.
 
 ## What is this?
 Originally designed as a bound reference for a computer based exam, I decided to explore the uses of Mathematica not just as a CAS (Computer Algebra System) but also as a programming language. In learning to use the Wolfram language, I discovered that you can import Wolfram language files (.wl for short) from your computer, similar to importing a python library, be it from your local file or elsewehere.
